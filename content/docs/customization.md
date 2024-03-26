@@ -4,8 +4,9 @@ date: 2022-01-24T14:00:00.000Z
 authorbox: false
 sidebar: false
 pager: false
-weight: 2
+weight: 3
 menu: main
+draft: false
 ---
 
 Customization page describes common Mainroad configuration parameters which can be specified via configuration file or

@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Mainroad"
+title = "He2dou Blog"
 languageCode = "zh-cn"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -22,7 +22,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["post", "docs"]
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "Just Do it" # Logo subtitle
+  image = "img/face.png" # Logo image. Path relative to "static"
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -34,3 +35,26 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+[[menus.main]]
+    name = 'Products'
+    pageRef = '/products'
+    weight = 20
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "username"
+  instagram = "username"
+  linkedin = "username"
+  telegram = "username"
+  github = "he2dou"
+  gitlab = "username"
+  bitbucket = "username"
+  email = "he2dou@gmail.com"

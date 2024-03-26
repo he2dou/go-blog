@@ -13,7 +13,7 @@ thumbnail:
   src: "img/placeholder.png"
   visibility:
     - list
-weight: 1
+weight: 2
 menu: main
 toc: true
 ---
