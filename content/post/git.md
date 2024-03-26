@@ -2,7 +2,7 @@
 title: git 版本控制系统
 date: 2022-04-04T05:00:00Z
 categories:
-  - 技术
+  - Technology
 tags:
   - git
 author: harry 

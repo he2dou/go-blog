@@ -3,7 +3,7 @@ title: centos 服务器操作系统
 date: 2022-04-04T05:00:00Z
 author: harry
 categories:
-  - 技术
+  - Technology
 ---
 
 <img src="https://pic.imgdb.cn/item/656f2ad9c458853aef709008.jpg" />

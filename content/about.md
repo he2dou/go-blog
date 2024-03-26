@@ -6,10 +6,7 @@ sidebar: false
 menu: main
 ---
 
-Our website builds with [Hugo](https://gohugo.io/) static site generator and
-[Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
-before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the
-combination of Hugo and Mainroad can do.
+我是一个农村出生的80后程序员。热爱编程，喜欢探索技术的无限可能。曾在C&C++，Python，Golang等语言中畅游，写下了许多代码的旅程。每当我看到“Hello, World!”这句简单而又充满意义的输出时，都感到一股自豪和喜悦
 
 ## About Mainroad
 
@@ -30,6 +27,8 @@ Main features:
 
 Learn more on [GitHub](https://github.com/vimux/mainroad). Mainroad theme is released under the
 [GPLv2 license](https://github.com/vimux/mainroad/blob/master/LICENSE.md).
+
+---
 
 ## About Hugo
 

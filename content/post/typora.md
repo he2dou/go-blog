@@ -2,7 +2,7 @@
 title: typora下载和破解（仅供学习）
 date: 2023-11-27T05:00:00Z
 categories:
-  - 技术
+  - Technology
 tags:
   - typora
 author: harry

@@ -2,9 +2,7 @@
 title: Website Logs
 date: 2023-11-30T05:00:00Z
 categories:
-  - logs
-tags:
-  - tool
+  - Untitled
 author: harry
 weight: 5
 menu: main

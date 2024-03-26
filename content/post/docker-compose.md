@@ -2,7 +2,7 @@
 title: docker-compose 定义和运行容器
 date: 2022-04-04T05:00:00Z
 categories:
-  - 技术
+  - Technology
 tags:
   - docker
 author: harry 

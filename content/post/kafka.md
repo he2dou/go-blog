@@ -2,7 +2,7 @@
 title: kafka 消息队列服务
 date: 2022-04-04T05:00:00Z
 categories:
-  - 技术
+  - Technology
 author: harry
 tags:
   - kafka

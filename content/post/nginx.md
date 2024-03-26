@@ -4,7 +4,7 @@ date: 2023-04-04T05:00:00Z
 tags:
   - nginx
 categories:
-  - 技术
+  - Technology
 author: harry
 ---
 

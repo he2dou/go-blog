@@ -5,7 +5,7 @@ tags:
   - clickhouse
 author: harry
 categories:
-  - 技术
+  - Technology
 ---
 
 <img src="https://pic.imgdb.cn/item/656f2a4ec458853aef6d96ee.jpg" />

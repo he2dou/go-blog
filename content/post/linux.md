@@ -2,7 +2,7 @@
 title: linux 开源操作系统
 date: 2022-04-04T05:00:00Z
 categories:
-  - 技术
+  - Technology
 tags:
   - linux
 author: harry

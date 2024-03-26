@@ -3,7 +3,7 @@ title: redis 缓存数据技术
 date: 2023-12-05
 author: harry
 categories:
-  - 技术
+  - Technology
 tags:
   - redis
 ---
