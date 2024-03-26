@@ -1,11 +1,14 @@
 ---
-title: 网站的开发日志
+title: Website Logs
 date: 2023-11-30T05:00:00Z
 categories:
-  - 工具
+  - logs
 tags:
   - tool
 author: harry
+weight: 5
+menu: main
+sidebar: false
 ---
 
 <img src="https://pic.imgdb.cn/item/656f2c13c458853aef774f50.jpg" alt="网站更新日志">
@@ -22,7 +25,7 @@ author: harry
 
 ---
 
-### 【20231205】接入谷歌分析
+> ### 【20231205】接入谷歌分析
 
 **在网站head后加入如下js代码**
 
@@ -44,7 +47,7 @@ https://analytics.google.com/analytics/web
 
 ---
 
-### 【20231201】banner图制作 
+> ### 【20231201】banner图制作 
 
 - 使用 bing ai 服务
 
@@ -54,7 +57,7 @@ https://analytics.google.com/analytics/web
 
 - 创建自己的提示词
 
-> Generate a jpg image with 1024*1024 pixels, the text in the middle of the image is clickhouse , and the background is a random color.
+ Generate a jpg image with 1024*1024 pixels, the text in the middle of the image is clickhouse , and the background is a random color.
 
 
 - 对图片进行调整
@@ -64,7 +67,7 @@ https://analytics.google.com/analytics/web
 ---
 
 
-### 【20231130】使用图床网站
+> ### 【20231130】使用图床网站
 
 - 【国外】https://imgur.com
 - 【国内】https://sm.ms/

@@ -1,5 +1,3 @@
-# typora下载和破解（仅供学习）
-
 ---
 title: typora下载和破解（仅供学习）
 date: 2023-11-27T05:00:00Z
@@ -10,8 +8,6 @@ tags:
 author: harry
 
 ---
-
-<img src="https://pic.imgdb.cn/item/656f2ad9c458853aef7090e2.jpg" />
 
 Typora 一款 风格极简 Markdown 编辑器和阅读器
 
