@@ -1,5 +1,5 @@
 ---
-title: Website Logs
+title: 网站日志
 date: 2023-11-30T05:00:00Z
 categories:
   - Untitled

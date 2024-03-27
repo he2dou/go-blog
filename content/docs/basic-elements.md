@@ -1,5 +1,5 @@
 ---
-title: Basic HTML Elements
+title: 文章归档
 description: Example test article that contains basic HTML elements for text formatting on the Web.
 date: 2018-04-16
 categories:
@@ -10,7 +10,6 @@ tags:
   - "Basic Elements"
 menu:
   main:
-    name: Basic Elements
     weight: 4
 draft: false
 ---

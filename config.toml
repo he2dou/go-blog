@@ -38,11 +38,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [menus]
 [[menus.main]]
-    name = 'Home'
+    name = '首页'
     pageRef = '/'
     weight = 1
 [[menus.main]]
-    name = 'Products'
+    name = '产品'
     pageRef = '/products'
     weight = 20
 

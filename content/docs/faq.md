@@ -10,7 +10,7 @@ weight: 5
 draft: false
 menu:
   main:
-    name: FAQ
+    name: 常见问题
 ---
 
 Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
