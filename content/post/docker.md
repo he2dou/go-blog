@@ -4,7 +4,7 @@ date: 2023-10-30T05:00:00Z
 tags:
   - docker
 categories:
-  - Technology
+  - 技术
 author: harry
 ---
 

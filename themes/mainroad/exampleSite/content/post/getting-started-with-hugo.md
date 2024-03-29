@@ -4,7 +4,7 @@ date: 2014-04-02
 tags:
   - "hugo"
 categories:
-  - "Untitled"
+  - "未分类"
 ---
 
 ## Step 1. Install Hugo

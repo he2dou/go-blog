@@ -3,7 +3,7 @@ title: dbeaver 数据库管理工具
 date: 2023-10-31T05:00:00Z
 author: harry
 categories:
-  - Technology
+  - 工具
 tags:
   - dbeaver
 draft: false

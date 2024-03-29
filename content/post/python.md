@@ -4,7 +4,7 @@ date: 2023-04-04T05:00:00Z
 image: /images/image-placeholder.png
 author: hht
 categories:
-  - Technology
+  - 技术
 tags:
   - python
 draft: true

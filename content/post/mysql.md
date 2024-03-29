@@ -2,7 +2,7 @@
 title: mysql 数据库服务
 date: 2022-04-04T05:00:00Z
 categories:
-  - Technology
+  - 技术
 tags:
   - mysql
 author: harry

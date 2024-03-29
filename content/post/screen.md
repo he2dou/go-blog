@@ -2,7 +2,7 @@
 title: screen 窗口管理器
 date: 2023-11-27T05:00:00Z
 categories:
-  - Technology
+  - 工具
 tags:
   - screen
 author: harry

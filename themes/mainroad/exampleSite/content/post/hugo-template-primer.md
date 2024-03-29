@@ -5,7 +5,7 @@ thumbnail: "img/placeholder.png"
 tags:
   - "hugo"
 categories:
-  - "Untitled"
+  - "未分类"
 ---
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
