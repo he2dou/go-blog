@@ -7,6 +7,12 @@ pager: false
 weight: 3
 menu: main
 draft: false
+thumbnail:
+  src: "img/pen_tool.png"
+  visibility:
+    - list
+categories:
+  - 未分类
 ---
 
 Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
@@ -18,21 +24,14 @@ and more.
 This section will mainly cover customization settings that are unique to this theme. If something is not covered here,
 there's a good chance it is covered somewhere in [Hugo docs](https://gohugo.io/documentation/).
 
-### Logo
+### undraw
 
-**Mainroad** allows you to set a custom logo in the site header. You may use text, or image, or both. Use the following
-options in your site config:
+**Mainroad** 开源手工手势和符号来重新想象您的工作:
 
-```toml
-[Params.logo]
-  image = "img/placeholder.png"
-  title = "Mainroad"
-  subtitle = "Just another site"
-```
 
-**Note:** logo image will display at a maximum width of 128 pixels and a maximum height of 128 pixels
-when you use text and image simultaneously. When the only logo image is active, it will display at a maximum height of
-256 pixels. Ideally, your logo image should be SVG.
+**Note:** 毫不费力地创建炫酷的网站、照片和文档。开始使用unDraw Handcrafts，无需归属且完全免费！.
+
+[官方地址》》](https://undraw.co/illustrations)
 
 ---
 

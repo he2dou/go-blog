@@ -2,7 +2,6 @@
 title: 开源项目
 description: This article helps you get started with the Mainroad theme, including installation and minimal
   configuration.
-lead: This article helps you get started with the Mainroad theme, including installation and minimal configuration.
 date: 2022-01-24T14:00:00.000Z
 tags:
   - "Installation"
@@ -16,10 +15,11 @@ thumbnail:
 weight: 2
 menu: main
 toc: true
+categories:
+  - 未分类
 ---
 
-Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
-configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
+Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad To understand this guide, you need to be familiar
 with the [Hugo](https://gohugo.io/) static site generator.
 
 <!--more-->
